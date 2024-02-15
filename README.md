@@ -9,18 +9,18 @@
   <div align="center" dir="auto">
     <p><h3>Data Science</h3></p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white">
-      <img src="https://img.shields.io/badge/numpy-013243?style=plastic&logo=numpy&logoColor=white">
-      <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=plastic&logo=scikitlearn&logoColor=white">
-      <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=plastic&logo=tensorflow&logoColor=white">
-      <img src="https://img.shields.io/badge/jupyter-F37626?style=plastic&logo=jupyter&logoColor=white">
+      <img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white">
+      <img src="https://img.shields.io/badge/Numpy-013243?style=plastic&logo=numpy&logoColor=white">
+      <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=plastic&logo=scikitlearn&logoColor=white">
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white">
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white">
     <p><h3>Data Engineering</h3></p>
-      <img src="https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white">
-      <img src="https://img.shields.io/badge/selenium-43B02A?style=plastic&logo=selenium&logoColor=white">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=selenium&logoColor=white">
     <p><h3>Front & Backend</h3></p>
-      <img src="https://img.shields.io/badge/html5-E34F26?style=plastic&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/css3-1572B6?style=plastic&logo=scss3&logoColor=white">
-      <img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript3&logoColor=white">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white">
     </div>
 </summary>
 </details>
