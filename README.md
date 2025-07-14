@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
   <title>Seonghoon Park - 직무역량 요약</title>
   <style>
     body {
-      font-family: 'Segoe UI', sans-serif;
+      font-family: 'Malgun Gothic', 'Segoe UI', sans-serif;
       background-color: #f8f9fa;
       color: #333;
       line-height: 1.6;
@@ -15,11 +15,18 @@
     header, footer {
       width: 100%;
     }
+    header img, footer img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
     .container {
       max-width: 900px;
       margin: auto;
       padding: 2rem;
       background-color: #fff;
+      box-sizing: border-box;
+      word-break: break-word;
     }
     h1, h2, h3 {
       color: #2c3e50;
@@ -47,7 +54,7 @@
 
   <!-- 상단 배너 -->
   <header>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" alt="header banner" />
   </header>
 
   <div class="container">
@@ -109,7 +116,7 @@
     <div class="section">
       <h2>🎯 요약</h2>
       <p>
-        저는 <span class="highlight">비정형 정책 데이터를 사용자 중심으로 정리하고 서비스화하는 실무 경험</span>이 강점입니다.<br>
+        저는 <span class="highlight">비정형 정책 데이터를 사용자 중심으로 정리하고 서비스화하는 실무 경험</span>이 강점입니다.<br />
         정책 문서를 빠르게 이해하고 정리하는 능력, 반복 작업의 집중력, 그리고 팀워크를 통해 서비스 품질에 기여한 경험이 저를 가장 잘 설명합니다.
       </p>
     </div>
@@ -117,7 +124,7 @@
 
   <!-- 하단 배너 -->
   <footer>
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" alt="footer banner" />
   </footer>
 
 </body>
